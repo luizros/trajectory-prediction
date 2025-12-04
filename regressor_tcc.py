@@ -5,7 +5,7 @@ t_window_secs = [10, 15, 30, 60]
 
 test_window_secs_list = [x for x in range(1,11)]  
 
-file_csv = "2024-07-21_07-31_ELIMINATION_PHASE_UBC_Thunderbots-vs-ITAndroids.log.txt.csv"
+file_csv = "math.csv"
 X_max    = 3300
 Y_max    = 5000
 
